@@ -36,7 +36,7 @@ Transfer learning improved accuracy by about 10 percentage points over the CNN t
 ## Quick Start (about 5 minutes)
 
 ### Prerequisites
-- Python 3.10 or newer
+- Python 3.10 to 3.12 (3.12 recommended)
 - `git` and `pip`
 
 ### 1. Clone the repository
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 ```
 
 ### 4. Get the trained model
-Download the trained weights from **[this link](models/single_step_model.keras)** and place the file in the `models/` folder:
+The trained model is already included in **[this link](models/single_step_model.keras)** 
 
 ```
 models/
