@@ -1,0 +1,15 @@
+# Core deep learning (Keras is included with TensorFlow)
+tensorflow>=2.16
+numpy
+pillow
+ 
+# Web demo
+gradio
+ 
+# Training, tuning, and evaluation
+optuna
+scikit-learn
+matplotlib
+seaborn
+split-folders
+ 
